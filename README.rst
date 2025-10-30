@@ -20,7 +20,7 @@ greetings.
 About the example
 -----------------
 
-The ``build.gradle`` in this project demonstrates two main features, dependency management and using the `Shadow Jar`_
+The ``build.gradle.kts`` in this project demonstrates two main features, dependency management and using the `Shadow Jar`_
 plugin to create an executable jar.
 
 Dependencies
